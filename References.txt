@@ -1,0 +1,7 @@
+https://stackoverflow.com/questions/73200393/how-to-install-v8-firebase-and-delete-v9-with-npm 
+
+https://github.com/shamilkotta/react_olx/tree/main/src 
+
+https://reactjsexample.com/olx-website-clone-using-react-js-and-firease/ 
+
+https://www.youtube.com/playlist?list=PLY-ecO2csVHfgVM9sChmUirqK7BXUBX9P 
