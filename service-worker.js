@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/OLX-CLone--React/precache-manifest.7381d6249ba2977eb70fc70ab8756f4d.js"
+  "/Sourav-KK/OLX-CLone--React/precache-manifest.e1e9910f6bb6872a904202763ffa1e1e.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/OLX-CLone--React/index.html", {
+workbox.routing.registerNavigationRoute("/Sourav-KK/OLX-CLone--React/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
